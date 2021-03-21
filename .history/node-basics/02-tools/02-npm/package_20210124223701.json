@@ -1,0 +1,16 @@
+{
+  "name": "02-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01-require-jquery-global.js",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev":"gulp -v"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

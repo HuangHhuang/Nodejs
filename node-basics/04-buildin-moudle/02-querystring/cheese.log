@@ -1,0 +1,7 @@
+[2021-01-26T17:03:26.811] [DEBUG] cheese - [Object: null prototype] { id: '2', name: 'tongyi', from: '北京' }
+[2021-01-26T17:09:02.934] [DEBUG] cheese - id%3A2%2Fname%3Atongyi%2Ffrom%3A%E5%8C%97%E4%BA%AC
+[2021-01-26T17:09:21.927] [DEBUG] cheese - id%3D2%26name%3Dtongyi%26from%3D%E5%8C%97%E4%BA%AC
+[2021-01-26T17:11:05.516] [DEBUG] cheese - id=2&name=tongyi&from=北京
+[2021-01-26T17:12:37.981] [DEBUG] cheese - id/2:name/tongyi:from/%E5%8C%97%E4%BA%AC
+[2021-01-26T17:14:26.076] [DEBUG] cheese - [Object: null prototype] { id: '2', name: 'tongyi', from: '北京' }
+[2021-01-26T17:16:31.403] [DEBUG] cheese - id=2&name=tongyi&from=北京

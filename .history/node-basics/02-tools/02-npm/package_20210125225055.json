@@ -1,0 +1,24 @@
+{
+  "name": "02-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01-require-jquery-global.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "gulp": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "gulp -v",
+    "getting":"echo hello",
+    "script1":"node ./03-scripts/script1.js && node ./03-scripts/script2.js",
+    "start":"node ./03-scripts/script.js",
+    "build":"echo $npm_package_name"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "config":{
+    "env":"production"
+  }
+}
